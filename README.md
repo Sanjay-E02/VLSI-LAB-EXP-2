@@ -48,7 +48,7 @@ STEP:9  In the Design Object List Window, enter the pin location for each pin in
 STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
 STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
-VERILOG CODE
+# VERILOG CODE
 
 # 8:3 ENCODER:
 module encoder(d,a,b,c);
@@ -215,7 +215,7 @@ end
 
 endmodule
 
-OUTPUT WAVEFORM
+# OUTPUT WAVEFORM
 # 8:3 ENCODER
 
 ![image](https://github.com/Sanjay-E02/VLSI-LAB-EXP-2/assets/161813889/48ae5773-4bfe-434f-9407-4067b5aeda46)
@@ -241,7 +241,7 @@ OUTPUT WAVEFORM
 ![image](https://github.com/Sanjay-E02/VLSI-LAB-EXP-2/assets/161813889/af5ed978-5be4-4eb2-bee7-5b1baa8538e4)
 
 
-RESULT
+# RESULT
 
 Thus the simulation and implementation of combinational logic circuit is done and outputs are verified successfully.
 
