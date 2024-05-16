@@ -7,7 +7,7 @@
 Xilinx 14.7
 Spartan6 FPGA
 
-# **LOGIC DIAGRAM**
+# LOGIC DIAGRAM
 
 # ENCODER:
 
